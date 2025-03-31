@@ -1,0 +1,1 @@
+Pour démarrer le projet, lancer la commande "npm run typescript" après avoir lancer un npm install évidemment
